@@ -4,12 +4,12 @@
 
 Below is an introduction about me:
 
-- 🔭 I’m currently working on building apps that give insightful answer 
+- 🔭 I’m currently working on building apps that give insightful answers to behavioural patterns 
 - 🌱 I’m currently learning algorithms in Python and Azure fundamentals
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m always looking for learning opprutnities by doing 
+- 🤔 I’m always looking for learning opporutnities through collaboration
 - 💬 Ask me about Chinese food ^^
 - 📫 How to reach me: pflee1989@outlook.com
-- 😄 Why Doing IT? It is great to guild something substantial without plumbing or wiring 
-- ⚡ Fun fact? I love spices, they make life great 
+- 😄 Why Doing IT? It is great to build something substantial without plumbing or wiring 
+- ⚡ Fun fact? I love spices (nutmeg is my favorite), they make life great 
 
