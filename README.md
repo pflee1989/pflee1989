@@ -11,5 +11,5 @@ Below is an introduction about me:
 - 💬 Ask me about Chinese food ^^
 - 📫 How to reach me: pflee1989@outlook.com
 - 😄 Why Doing IT? It is great to build something substantial without plumbing or wiring 
-- ⚡ Fun fact? I love spices (nutmeg is my favorite), they make life great 
+- ⚡ Fun fact? I love spices (nutmeg especially), they make life great 
 
