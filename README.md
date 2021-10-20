@@ -2,7 +2,7 @@
 
 **  ✨ Numbers don't Lie, and I love to find what numbers really say ✨
 
-Here are some ideas to get you started:
+Below is something about me :):
 
 - 🔭 I’m currently working on building apps that give insightful answer 
 - 🌱 I’m currently learning algorithms in Python and Azure fundamentals
