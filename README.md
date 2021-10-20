@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **  ✨ Numbers don't Lie, and I love to find what numbers really say ✨
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pflee1989@outlook.com
 - 😄 Why Doing IT? It is great to guild something substantial without plumbing or wiring 
 - ⚡ Fun fact? I love spices, they make life great 
--->
+
